@@ -178,9 +178,7 @@ Interacting with the Contracts
 4.Withdraw Tokens: Call the withdraw function of the Vault contract to redeem shares and receive tokens.
 ## Authors
 
-Metacrafter Chris  
 Srishti
-
 
 ## License
 
